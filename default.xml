@@ -511,6 +511,8 @@
   
   <project path="device/Micromax/A102" name="TestMT6572/android_device_Micromax_A102" revision="cm-14.1" />
   <project path="vendor/Micromax/A102" name="TestMT6572/android_vendor_Micromax_A102" revision="cm-14.1" />
+  <project path="device/lava/iris700" name="markkiths/android_device_lava_iris700" revision="N" />
+  <project path="vendor/lava/iris700" name="markkiths/android_vendor_lava_iris700" revision="cm-14.1" />
 
   <include name="snippets/cm.xml" />
 

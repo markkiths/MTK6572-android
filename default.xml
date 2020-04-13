@@ -505,9 +505,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
-  
-  <project path="device/lava/iris700" name="markkiths/android_device_lava_iris700" revision="N" />
-  <project path="vendor/lava/iris700" name="markkiths/android_vendor_lava_iris700" revision="cm-14.1" />
 
   <include name="snippets/cm.xml" />
 
